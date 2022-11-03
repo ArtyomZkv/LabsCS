@@ -1,0 +1,6 @@
+F:\Учёба\Курсы\ГАЗ\Labs\LabsCS\Lab12_New\Starter\Exercise 1\Grades.Utilities\bin\Debug\Grades.Utilities.dll
+F:\Учёба\Курсы\ГАЗ\Labs\LabsCS\Lab12_New\Starter\Exercise 1\Grades.Utilities\bin\Debug\Grades.Utilities.pdb
+F:\Учёба\Курсы\ГАЗ\Labs\LabsCS\Lab12_New\Starter\Exercise 1\Grades.Utilities\obj\Debug\Grades.Utilities.csproj.AssemblyReference.cache
+F:\Учёба\Курсы\ГАЗ\Labs\LabsCS\Lab12_New\Starter\Exercise 1\Grades.Utilities\obj\Debug\Grades.Utilities.csproj.CoreCompileInputs.cache
+F:\Учёба\Курсы\ГАЗ\Labs\LabsCS\Lab12_New\Starter\Exercise 1\Grades.Utilities\obj\Debug\Grades.Utilities.dll
+F:\Учёба\Курсы\ГАЗ\Labs\LabsCS\Lab12_New\Starter\Exercise 1\Grades.Utilities\obj\Debug\Grades.Utilities.pdb

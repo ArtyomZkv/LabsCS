@@ -1,0 +1,7 @@
+F:\Учёба\Курсы\ГАЗ\Labs\LabsCS\Lab12_New\Starter\Exercise 1\Grades.DataModel\bin\Debug\Grades.Web.Models.dll.config
+F:\Учёба\Курсы\ГАЗ\Labs\LabsCS\Lab12_New\Starter\Exercise 1\Grades.DataModel\bin\Debug\Grades.Web.Models.dll
+F:\Учёба\Курсы\ГАЗ\Labs\LabsCS\Lab12_New\Starter\Exercise 1\Grades.DataModel\bin\Debug\Grades.Web.Models.pdb
+F:\Учёба\Курсы\ГАЗ\Labs\LabsCS\Lab12_New\Starter\Exercise 1\Grades.DataModel\obj\Debug\Grades.DataModel.csproj.AssemblyReference.cache
+F:\Учёба\Курсы\ГАЗ\Labs\LabsCS\Lab12_New\Starter\Exercise 1\Grades.DataModel\obj\Debug\Grades.DataModel.csproj.CoreCompileInputs.cache
+F:\Учёба\Курсы\ГАЗ\Labs\LabsCS\Lab12_New\Starter\Exercise 1\Grades.DataModel\obj\Debug\Grades.Web.Models.dll
+F:\Учёба\Курсы\ГАЗ\Labs\LabsCS\Lab12_New\Starter\Exercise 1\Grades.DataModel\obj\Debug\Grades.Web.Models.pdb
